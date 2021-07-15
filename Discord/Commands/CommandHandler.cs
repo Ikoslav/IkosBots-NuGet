@@ -3,7 +3,7 @@ using Discord.WebSocket;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace IkosBots.Commands
+namespace IkosBots.Discord.Commands
 {
     public class CommandHandler
     {
