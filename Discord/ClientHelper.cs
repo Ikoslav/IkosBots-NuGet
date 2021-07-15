@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace IkosBots.Discord
 {
-    class ClientHelper
+    public class ClientHelper
     {
         private DiscordSocketClient _client;
         private ulong _discordChannelID;
